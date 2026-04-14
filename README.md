@@ -20,7 +20,7 @@ In the telecommunications industry, retaining existing customers is significantl
 
 ---
 ### 🖼️ Project Gallery
-
+Tableau Dashboard:
 <img width="649" height="559" alt="tableau_dashboard png" src="https://github.com/user-attachments/assets/05f29fd1-ab6a-4dcd-864c-2262ea89a86b" />
-
+Orange Data Mining:
 <img width="892" height="299" alt="orange_pipeline png" src="https://github.com/user-attachments/assets/e2ab273e-952a-4e97-8f6e-d49795ea7a62" />
